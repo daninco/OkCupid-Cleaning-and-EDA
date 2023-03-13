@@ -13,3 +13,13 @@ Many columns to check through and understand. Some are quick, such as 'status' -
 Tried to export some .info to make a tracker in excel to see items all at once to compare but that now seems less useful
 
 Keep going checking through the variables for now
+
+
+## The Essays - Language processing
+I have installed and run NLTK 
+Starting with 1 essay (essay 0) I have:
+* removed punctuation
+* tokeninzed 
+* removed the stopwords
+
+Next is creating a visualization for the one essay, then scaling up to all the essays for one profile and finally up to all essays for all profiles.

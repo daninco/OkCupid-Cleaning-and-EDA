@@ -17,9 +17,12 @@ Keep going checking through the variables for now
 
 ## The Essays - Language processing
 I have installed and run NLTK 
-Starting with 1 essay (essay 0) I have:
+Starting with 1 essay (essay 0[0]) I have:
 * removed punctuation
 * tokeninzed 
 * removed the stopwords
 
-Next is creating a visualization for the one essay, then scaling up to all the essays for one profile and finally up to all essays for all profiles.
+I created a visualization for the one essay.
+Next I have been trying to do that for all the essays in one varaible (i.e. all the essay0 entries) but having issues removing the stopwords (I think I am trying to be too slick with the code and should do it longer but clearer)
+Next is either trying to scale up to all the essays for one profile 
+OR if I manage to do all the essays for one essay varaible, finally scale up to all essays for all profiles.

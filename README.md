@@ -22,7 +22,9 @@ Starting with 1 essay (essay 0[0]) I have:
 * tokeninzed 
 * removed the stopwords
 
-I created a visualization for the one essay.
-Next I have been trying to do that for all the essays in one varaible (i.e. all the essay0 entries) but having issues removing the stopwords (I think I am trying to be too slick with the code and should do it longer but clearer)
-Next is either trying to scale up to all the essays for one profile 
-OR if I manage to do all the essays for one essay varaible, finally scale up to all essays for all profiles.
+I created a visualization for all the essays.
+
+Next is to:
+* tune the removal of stopwords, apostrophes, NaN values, the letter 'm' as a standalone word
+* find out how to pull figures about the word use - how can I get the raw numbers and make a histogram of the 20 most used words?
+

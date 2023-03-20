@@ -25,6 +25,7 @@ Starting with 1 essay (essay 0[0]) I have:
 I created a visualization for all the essays.
 
 Next is to:
-* tune the removal of stopwords, apostrophes, NaN values, the letter 'm' as a standalone word
+* tune the removal of stopwords and multiple versions of words (run, runner, running, runs, ran etc.)
 * find out how to pull figures about the word use - how can I get the raw numbers and make a histogram of the 20 most used words?
+    - Created a dictionary of word frequencies to aid this
 
